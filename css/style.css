@@ -1,5 +1,13 @@
 @charset "UTF-8";
 
+html{
+    background: black;
+    width: 1140px;
+    height: 3256px;
+}
 
+section{
+    width: 1092;
+    margin: auto;
 
-
+}
